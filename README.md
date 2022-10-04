@@ -28,7 +28,7 @@ Those badges show that I have completed the online courses for Learn Enough Comm
       </td>
       <td align="center">
         <a href="https://go.dev/" rel="nofollow">
-          <img src="" height="75px" style="max-width: 100%;" ><br >Go
+          <img src="https://user-images.githubusercontent.com/113197678/193902621-b69359e3-1116-47f2-a9d8-98b5f8a77c47.png" height="75px" style="max-width: 100%;" ><br >Go
         </a>
       </td>
     </tr>
