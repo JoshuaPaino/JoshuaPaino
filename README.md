@@ -9,7 +9,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
 
 Those badges show that I have completed the online courses for Learn Enough Command Line to Be Dangerous, Learn Enough Text Editor to Be Dangerous, and the Ruby on Rails Tutorial.
 
-<2> Tools and Technologies <h2>
+<h2> Tools and Technologies </h2>
 <table cellspacing="5" cellpadding="5" width="100%" >
   <tbody>
     <tr>
