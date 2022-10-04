@@ -1,4 +1,5 @@
-### Hi there 👋
+### Joshua Paino's GitHub Profile
+<hr>
 
 
 **JoshuaPaino/JoshuaPaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
