@@ -13,7 +13,7 @@ Those badges show that I have completed the online courses for Learn Enough Comm
     <tr>
       <td align="center" >
         <a href="https://ruby-doc.org/" rel="nofollow" >
-          <img src="https://user-images.githubusercontent.com/113197678/193889858-a96f6f65-591f-4969-bc77-e79eebd87fa4.png" style="max-width: 100%;"><br >Ruby
+          <img src="https://user-images.githubusercontent.com/113197678/193891219-44f8f2ea-f1ac-4e40-a14b-03fdc88c4185.png" style="max-width: 100%;"><br >Ruby
         </a>
       </td>
       <td align="center">
