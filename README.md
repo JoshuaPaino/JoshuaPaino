@@ -18,7 +18,7 @@ Those badges show that I have completed the online courses for Learn Enough Comm
       </td>
       <td align="center">
         <a href="https://typescriptlang.org" rel="nofollow">
-          <img src="" style="max-width: 100%;" ><br>TypeScript
+          <img src="https://user-images.githubusercontent.com/113197678/193891720-11a536aa-8574-4828-bb02-7e7a2f70d141.png" style="max-width: 100%;" ><br>TypeScript
         </a>
       </td>
       <td align="center">
