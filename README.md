@@ -6,7 +6,8 @@
 
 
 <a href="https://www.learnenough.com/certificates/2d76444a"><img src="https://www.learnenough.com/certificates/2d76444a/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/2d76444a"><img src="https://www.learnenough.com/certificates/2d76444a/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a>
-Here are some ideas to get you started:
+
+Those badges show that I have completed the online courses for Learn Enough Command Line to Be Dangerous, Learn Enough Text Editor to Be Dangerous, and the Ruby on Rails Tutorial.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
