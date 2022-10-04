@@ -40,7 +40,7 @@ Those badges show that I have completed the online courses for Learn Enough Comm
       </td>
       <td align="center">
         <a href="https://vuejs.org/" rel="nofollow" >
-          <img src="" height="75px" style="max-width: 100%;" ><br >Vue
+          <img src="https://user-images.githubusercontent.com/113197678/193903266-0d57095c-0c13-470f-9b61-e4375cebb1f0.png" height="75px" style="max-width: 100%;" ><br >Vue
         </a>
       </td>
        <td align="center">
