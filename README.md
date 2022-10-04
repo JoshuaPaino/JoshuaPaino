@@ -3,8 +3,7 @@
 Welcome to my public profile! This includes Certificates of Completion from Learn Enough.
 
 
-<a href="https://www.learnenough.com/certificates/2d76444a"><img src="https://www.learnenough.com/certificates/2d76444a/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/2d76444a"><img src="https://www.learnenough.com/certificates/2d76444a/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/2d76444a"><img src="https://www.learnenough.com/certificates/2d76444a/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a>
-
+<a href="https://www.learnenough.com/certificates/2d76444a"><img src="https://www.learnenough.com/certificates/2d76444a/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/2d76444a"><img src="https://www.learnenough.com/certificates/2d76444a/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/2d76444a"><img src="https://www.learnenough.com/certificates/2d76444a/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/2d76444a"><img src="https://www.learnenough.com/certificates/2d76444a/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a>
 Those badges show that I have completed the online courses for Learn Enough Command Line to Be Dangerous, Learn Enough Text Editor to Be Dangerous, and the Ruby on Rails Tutorial.
 
 <h2> Tools and Technologies </h2>
