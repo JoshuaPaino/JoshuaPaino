@@ -35,7 +35,7 @@ Those badges show that I have completed the online courses for Learn Enough Comm
     <tr>
       <td align="center">
         <a href="https://sinatrarb.com/" rel="nofollow" >
-          <img src="" height="75px" style="max-width: 100%;" ><br>Sinatra
+          <img src="https://user-images.githubusercontent.com/113197678/193900470-10409a46-b4d1-4018-b4ba-7531d00bf1f1.png" height="75px" style="max-width: 100%;" ><br>Sinatra
         </a>
       </td>
       <td align="center">
