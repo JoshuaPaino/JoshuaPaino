@@ -1,6 +1,4 @@
 ### <h1>Joshua Paino's GitHub Profile </h1>
-<hr>
-
 
 Welcome to my public profile! This includes Certificates of Completion from Learn Enough. They work like this:
 
@@ -10,7 +8,6 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
 Those badges show that I have completed the online courses for Learn Enough Command Line to Be Dangerous, Learn Enough Text Editor to Be Dangerous, and the Ruby on Rails Tutorial.
 
 <h2> Tools and Technologies </h2>
-<hr>
 
 <table cellspacing="5" cellpadding="5" width="100%" >
   <tbody>
