@@ -1,4 +1,4 @@
-### Joshua Paino's GitHub Profile
+### <h1>Joshua Paino's GitHub Profile </h1>
 <hr>
 
 
