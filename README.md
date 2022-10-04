@@ -13,12 +13,12 @@ Those badges show that I have completed the online courses for Learn Enough Comm
     <tr>
       <td align="center" >
         <a href="https://ruby-doc.org/" rel="nofollow" >
-          <img src="" style="max-width: 100%;" class="css-scan-generated-variation-img-6"><br >Ruby
+          <img src="https://user-images.githubusercontent.com/113197678/193889858-a96f6f65-591f-4969-bc77-e79eebd87fa4.png" style="max-width: 100%;"><br >Ruby
         </a>
       </td>
-      <td align="center" class="css-scan-generated-variation-td-8">
+      <td align="center">
         <a href="https://typescriptlang.org" rel="nofollow">
-          <img src="" style="max-width: 100%;" ><br class="css-scan-generated-variation-br-7">TypeScript
+          <img src="" style="max-width: 100%;" ><br>TypeScript
         </a>
       </td>
       <td align="center">
