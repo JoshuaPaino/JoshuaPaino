@@ -16,6 +16,10 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
           <img src="https://user-images.githubusercontent.com/113197678/193891219-44f8f2ea-f1ac-4e40-a14b-03fdc88c4185.png" style="max-width: 100%;"><br >Ruby
         </a>
       </td>
+      <a href="https://sinatrarb.com/" rel="nofollow" >
+          <img src="https://user-images.githubusercontent.com/113197678/193901452-0e9881a3-04d7-49dd-bafe-47e9a6fd1a45.png" height="75px" style="max-width: 100%;" ><br>Sinatra
+        </a>
+      </td>      
       <td align="center">
         <a href="https://typescriptlang.org" rel="nofollow">
           <img src="https://user-images.githubusercontent.com/113197678/193891720-11a536aa-8574-4828-bb02-7e7a2f70d141.png" style="max-width: 100%;" ><br>TypeScript
@@ -28,9 +32,9 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://sinatrarb.com/" rel="nofollow" >
-          <img src="https://user-images.githubusercontent.com/113197678/193901452-0e9881a3-04d7-49dd-bafe-47e9a6fd1a45.png" height="75px" style="max-width: 100%;" ><br>Sinatra
+    <td align="center">
+        <a href="https://typescriptlang.org" rel="nofollow">
+          <img src="https://user-images.githubusercontent.com/113197678/193891720-11a536aa-8574-4828-bb02-7e7a2f70d141.png" style="max-width: 100%;" ><br>TypeScript
         </a>
       </td>
       <td align="center">
