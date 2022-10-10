@@ -74,7 +74,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
       <td align="center">
         <a href="https://www.postgresql.org/" rel="nofollow" >
-          <img src="" height="75px" style="max-width: 100%;"><br >Bulma
+          <img src="" height="75px" style="max-width: 100%;"><br >Postman
         </a>
       </td>
     </tr>
