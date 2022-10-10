@@ -62,7 +62,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
          <td align="center">
         <a href="https://reactjs.org" rel="nofollow" clas>
-          <img src="https://user-images.githubusercontent.com/113197678/194960521-43161433-a07c-40dc-97dc-ab4e6a8162ab.png" style="max-width: 100%;" ><br>React
+          <img src="https://user-images.githubusercontent.com/113197678/194961557-d8007890-c69e-4d7a-93c8-df659b243397.png" style="max-width: 100%;" ><br>React
         </a>
       </td>
       <td align="center" >
