@@ -67,7 +67,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
       <td align="center" >
         <a href="https://nextjs.org/" rel="nofollow" >
-          <img src="" height="75px" style="max-width: 100%;" ><br>Next.js
+          <img src="https://user-images.githubusercontent.com/113197678/194960697-f43c985a-7a58-4d79-b865-afaab830346a.png" height="75px" style="max-width: 100%;" ><br>Next.js
         </a>
       </td>
          <td align="center">
