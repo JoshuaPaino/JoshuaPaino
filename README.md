@@ -45,7 +45,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
         <td align="center">
         <a href="https://nuxtjs.org/" rel="nofollow">
-          <img src="" height="75px" style="max-width: 100%;" ><br>Nuxt.js
+          <img src="https://user-images.githubusercontent.com/113197678/194960111-b6345790-3f8f-4e6a-a1a3-83ef51a92ddb.png" height="75px" style="max-width: 100%;" ><br>Nuxt.js
         </a>
       </td>
        <td align="center">
