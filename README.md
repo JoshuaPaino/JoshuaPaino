@@ -84,7 +84,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
      <td align="center">
         <a href="https://www.mysql.com/" target="_blank">
-          <img src="" height="75px" style="max-width: 100%;"><br>PostgreSQL
+          <img src="https://user-images.githubusercontent.com/113197678/194961035-e64598ab-3dc9-4c9a-a40b-06f0484a3cd1.png" height="75px" style="max-width: 100%;"><br>PostgreSQL
         </a>
       </td>
       <td align="center">
