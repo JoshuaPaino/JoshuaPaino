@@ -23,7 +23,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>      
         <td align="center">
         <a href="https://rubyonrails.org/" rel="nofollow">
-          <img src="" height="75px" style="max-width: 100%;"><br>Ruby on Rails
+          <img src="https://user-images.githubusercontent.com/113197678/194959576-0db59178-243d-47fc-9457-6baf247ba29f.png" height="75px" style="max-width: 100%;"><br>Ruby on Rails
         </a>
       </td>
          <td align="center">
