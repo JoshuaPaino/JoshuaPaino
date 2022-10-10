@@ -70,11 +70,6 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
           <img src="" height="75px" style="max-width: 100%;" ><br>Next.js
         </a>
       </td>
-      <td align="center">
-        <a href="https://www.mysql.com/" target="_blank">
-          <img src="" height="75px" style="max-width: 100%;"><br>Tailwind
-        </a>
-      </td>
     </tr>
      <tr>
       <td align="center">
