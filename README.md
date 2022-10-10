@@ -28,7 +28,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
       <td align="center">
         <a href="https://go.dev/" rel="nofollow">
-          <img src="https://user-images.githubusercontent.com/113197678/193902621-b69359e3-1116-47f2-a9d8-98b5f8a77c47.png" height="75px" style="max-width: 100%;" ><br >Go
+          <img src="https://user-images.githubusercontent.com/113197678/193902621-b69359e3-1116-47f2-a9d8-98b5f8a77c47.png" height="75px" style="max-width: 100%;" ><br >Sass
         </a>
       </td>
     </tr>
@@ -50,7 +50,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
       <td align="center">
         <a href="https://gohugo.io/" rel="nofollow" >
-          <img src="" height="75px" style="max-width: 100%;" ><br>Hugo
+          <img src="" height="75px" style="max-width: 100%;" ><br>Bootstrap
         </a>
       </td>
     </tr>
@@ -72,7 +72,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
       <td align="center">
         <a href="https://www.mysql.com/" target="_blank">
-          <img src="" height="75px" style="max-width: 100%;"><br>MySql
+          <img src="" height="75px" style="max-width: 100%;"><br>Tailwind
         </a>
       </td>
     </tr>
@@ -89,7 +89,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
      <td align="center">
         <a href="https://www.mysql.com/" target="_blank">
-          <img src="" height="75px" style="max-width: 100%;"><br>MySql
+          <img src="" height="75px" style="max-width: 100%;"><br>Bulma
         </a>
       </td>
       <td align="center">
