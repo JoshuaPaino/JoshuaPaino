@@ -26,11 +26,6 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
           <img src="https://user-images.githubusercontent.com/113197678/193899259-1beef4a3-6ad6-43c0-94bf-7b435f739206.png" style="max-width: 100%;" ><br>Javascript
         </a>
       </td>
-      <td align="center">
-        <a href="https://go.dev/" rel="nofollow">
-          <img src="https://user-images.githubusercontent.com/113197678/193902621-b69359e3-1116-47f2-a9d8-98b5f8a77c47.png" height="75px" style="max-width: 100%;" ><br >Sass
-        </a>
-      </td>
     </tr>
     <tr>
       <td align="center">
@@ -46,11 +41,6 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
        <td align="center">
         <a href="https://reactjs.org" rel="nofollow" clas>
           <img src="" style="max-width: 100%;" ><br>React
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://gohugo.io/" rel="nofollow" >
-          <img src="" height="75px" style="max-width: 100%;" ><br>Bootstrap
         </a>
       </td>
     </tr>
