@@ -94,7 +94,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
           <td align="center">
         <a href="https://www.mongodb.com/" rel="nofollow" >
-          <img src="" height="75px" style="max-width: 100%;" ><br>MongoDB
+          <img src="https://user-images.githubusercontent.com/113197678/194961222-7279e088-2a6d-4d67-b74b-fd8bc1d39b0f.png" height="75px" style="max-width: 100%;" ><br>MongoDB
         </a>
       </td>
     </tr>
