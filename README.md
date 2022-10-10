@@ -21,11 +21,6 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
         </a>
       </td>      
       <td align="center">
-        <a href="https://typescriptlang.org" rel="nofollow">
-          <img src="https://user-images.githubusercontent.com/113197678/193891720-11a536aa-8574-4828-bb02-7e7a2f70d141.png" style="max-width: 100%;" ><br>TypeScript
-        </a>
-      </td>
-      <td align="center">
         <a href="https://www.javascript.com/" rel="nofollow" clas>
           <img src="https://user-images.githubusercontent.com/113197678/193899259-1beef4a3-6ad6-43c0-94bf-7b435f739206.png" style="max-width: 100%;" ><br>Javascript
         </a>
