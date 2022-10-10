@@ -26,6 +26,11 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
           <img src="" height="75px" style="max-width: 100%;"><br>Ruby on Rails
         </a>
       </td>
+         <td align="center">
+        <a href="https://tailwindcss.com/" rel="nofollow" >
+          <img src="" height="75px" style="max-width: 100%;" ><br>Sass
+        </a>
+      </td>
     </tr>
     <tr>
     <td align="center">
@@ -41,6 +46,11 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
         <td align="center">
         <a href="https://nuxtjs.org/" rel="nofollow">
           <img src="" height="75px" style="max-width: 100%;" ><br>Nuxt.js
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://www.postgresql.org/" rel="nofollow" >
+          <img src="" height="75px" style="max-width: 100%;"><br >Tailwind
         </a>
       </td>
     </tr>
@@ -60,6 +70,11 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
           <img src="" height="75px" style="max-width: 100%;" ><br>Next.js
         </a>
       </td>
+         <td align="center">
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="" height="75px" style="max-width: 100%;"><br>Bootstrap
+        </a>
+      </td>
     </tr>
      <tr>
       <td align="center">
@@ -77,21 +92,9 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
           <img src="" height="75px" style="max-width: 100%;"><br >Postman
         </a>
       </td>
-    </tr>
-         <tr>
-      <td align="center">
+          <td align="center">
         <a href="https://tailwindcss.com/" rel="nofollow" >
           <img src="" height="75px" style="max-width: 100%;" ><br>Sass
-        </a>
-      </td>
-     <td align="center">
-        <a href="https://www.mysql.com/" target="_blank">
-          <img src="" height="75px" style="max-width: 100%;"><br>Bootstrap
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.postgresql.org/" rel="nofollow" >
-          <img src="" height="75px" style="max-width: 100%;"><br >Tailwind
         </a>
       </td>
     </tr>
