@@ -40,7 +40,7 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
       </td>
       <td align="center">
         <a href="https://vuejs.org/" rel="nofollow" >
-          <img src="https://user-images.githubusercontent.com/113197678/194961810-48cfb78d-151a-4b22-aa10-895f467db2a9.png" height="75px" style="max-width: 100%;" ><br >Vue
+          <img src="https://user-images.githubusercontent.com/113197678/194961884-0a6fb4bb-ad16-4496-ab17-204fff553af7.png" height="75px" style="max-width: 100%;" ><br >Vue
         </a>
       </td>
         <td align="center">
