@@ -98,6 +98,28 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
         </a>
       </td>
     </tr>
+         <tr>
+      <td align="center">
+        <a href="https://sass-lang.com/" rel="nofollow" >
+          <img src="" height="75px" style="max-width: 100%;" ><br >Postman
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://tailwindcss.com/" rel="nofollow" >
+          <img src="" height="75px" style="max-width: 100%;" ><br>Sass
+        </a>
+      </td>
+     <td align="center">
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="" height="75px" style="max-width: 100%;"><br>Bootstrap
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.postgresql.org/" rel="nofollow" >
+          <img src="" height="75px" style="max-width: 100%;"><br >Tailwind
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
