@@ -21,9 +21,9 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
           <img src="https://user-images.githubusercontent.com/113197678/193901452-0e9881a3-04d7-49dd-bafe-47e9a6fd1a45.png" height="75px" style="max-width: 100%;" ><br>Sinatra
         </a>
       </td>      
-      <td align="center">
-        <a href="https://www.javascript.com/" rel="nofollow" clas>
-          <img src="https://user-images.githubusercontent.com/113197678/193899259-1beef4a3-6ad6-43c0-94bf-7b435f739206.png" style="max-width: 100%;" ><br>Javascript
+        <td align="center">
+        <a href="https://rubyonrails.org/" rel="nofollow">
+          <img src="" height="75px" style="max-width: 100%;"><br>Ruby on Rails
         </a>
       </td>
     </tr>
@@ -38,21 +38,21 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
           <img src="https://user-images.githubusercontent.com/113197678/193903266-0d57095c-0c13-470f-9b61-e4375cebb1f0.png" height="75px" style="max-width: 100%;" ><br >Vue
         </a>
       </td>
-       <td align="center">
-        <a href="https://reactjs.org" rel="nofollow" clas>
-          <img src="" style="max-width: 100%;" ><br>React
+        <td align="center">
+        <a href="https://nuxtjs.org/" rel="nofollow">
+          <img src="" height="75px" style="max-width: 100%;" ><br>Nuxt.js
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://rubyonrails.org/" rel="nofollow">
-          <img src="" height="75px" style="max-width: 100%;"><br>Ruby on Rails
+       <td align="center">
+        <a href="https://www.javascript.com/" rel="nofollow" clas>
+          <img src="https://user-images.githubusercontent.com/113197678/193899259-1beef4a3-6ad6-43c0-94bf-7b435f739206.png" style="max-width: 100%;" ><br>Javascript
         </a>
       </td>
-      <td align="center">
-        <a href="https://nuxtjs.org/" rel="nofollow">
-          <img src="" height="75px" style="max-width: 100%;" ><br>Nuxt.js
+         <td align="center">
+        <a href="https://reactjs.org" rel="nofollow" clas>
+          <img src="" style="max-width: 100%;" ><br>React
         </a>
       </td>
       <td align="center" >
