@@ -101,3 +101,5 @@ Welcome to my public profile! This includes Certificates of Completion from Lear
   </tbody>
 </table>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaPaino&layout=compact)
